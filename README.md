@@ -4,7 +4,7 @@ A portfolio website template for camper
 
 ## Sample Website
 
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+A live demo is already available via this [link](https://ishjoc.netlify.app/)
 
 ## Tech Stack
 
